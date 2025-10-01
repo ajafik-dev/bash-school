@@ -2,6 +2,8 @@
 echo "Hello World!"
 touch ade.txt
 
+echo "Hello World!" > ade.txt
+
 SURNAME="Oluwafikayo"
 echo "My name is $SURNAME Ajayi"
 
